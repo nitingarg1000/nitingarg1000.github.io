@@ -1994,15 +1994,7 @@ categories = []
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://alison.rbind.io/projects/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://alison.rbind.io/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
+      <title>About</title>
       <link>https://alison.rbind.io/about/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://alison.rbind.io/about/</guid>
@@ -2010,7 +2002,7 @@ categories = []
     </item>
     
     <item>
-      <title>Resume</title>
+      <title>Achievements</title>
       <link>https://alison.rbind.io/achievements/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://alison.rbind.io/achievements/</guid>
@@ -2018,10 +2010,18 @@ categories = []
     </item>
     
     <item>
-      <title>Resume</title>
+      <title>Experience</title>
       <link>https://alison.rbind.io/experience/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://alison.rbind.io/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://alison.rbind.io/projects/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://alison.rbind.io/projects/</guid>
       <description></description>
     </item>
     
