@@ -5,12 +5,39 @@
     <link>https://nitingarg1000.github.io/tags/ml/</link>
       <atom:link href="https://nitingarg1000.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     <description>ml</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nitin Garg 2021</copyright><lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nitin Garg 2021</copyright><lastBuildDate>Wed, 27 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nitingarg1000.github.io/img/pom-card.png</url>
       <title>ml</title>
       <link>https://nitingarg1000.github.io/tags/ml/</link>
     </image>
+    
+    <item>
+      <title>Advanced Algorithms</title>
+      <link>https://nitingarg1000.github.io/project/algorithms/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://nitingarg1000.github.io/project/algorithms/</guid>
+      <description>&lt;p&gt;add content&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breaking Cryptosystems</title>
+      <link>https://nitingarg1000.github.io/project/crypto/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://nitingarg1000.github.io/project/crypto/</guid>
+      <description>&lt;p&gt;add content&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Haskell Scrabble Solver</title>
+      <link>https://nitingarg1000.github.io/project/haskell/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://nitingarg1000.github.io/project/haskell/</guid>
+      <description>&lt;p&gt;add content&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Convex Optimization Techniques</title>
