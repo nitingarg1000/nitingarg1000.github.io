@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>talk | Nitin Garg</title>
-    <link>https://alison.rbind.io/tags/talk/</link>
-      <atom:link href="https://alison.rbind.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nitingarg1000.github.io/tags/talk/</link>
+      <atom:link href="https://nitingarg1000.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>talk</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nitin Garg 2021</copyright><lastBuildDate>Mon, 29 Jul 2019 14:00:01 -0700</lastBuildDate>
     <image>
-      <url>https://alison.rbind.io/img/pom-card.png</url>
+      <url>https://nitingarg1000.github.io/img/pom-card.png</url>
       <title>talk</title>
-      <link>https://alison.rbind.io/tags/talk/</link>
+      <link>https://nitingarg1000.github.io/tags/talk/</link>
     </image>
     
     <item>
       <title>Teaching Students to Talk about Data Science</title>
-      <link>https://alison.rbind.io/talk/2019-jsm-talk-ds/</link>
+      <link>https://nitingarg1000.github.io/talk/2019-jsm-talk-ds/</link>
       <pubDate>Mon, 29 Jul 2019 14:00:01 -0700</pubDate>
-      <guid>https://alison.rbind.io/talk/2019-jsm-talk-ds/</guid>
+      <guid>https://nitingarg1000.github.io/talk/2019-jsm-talk-ds/</guid>
       <description>
 
 

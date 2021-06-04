@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>statistics | Nitin Garg</title>
+    <link>https://nitingarg1000.github.io/categories/statistics/</link>
+      <atom:link href="https://nitingarg1000.github.io/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>statistics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nitin Garg 2021</copyright><lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nitingarg1000.github.io/img/pom-card.png</url>
+      <title>statistics</title>
+      <link>https://nitingarg1000.github.io/categories/statistics/</link>
+    </image>
+    
+    <item>
+      <title>Variational Inference vs MCMC</title>
+      <link>https://nitingarg1000.github.io/project/variational-inference-vs-mcmc/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://nitingarg1000.github.io/project/variational-inference-vs-mcmc/</guid>
+      <description>&lt;p&gt;This two-day workshop is designed for those who want to take their R Markdown skills to the next level. We’ll talk about many low-level details in the rmarkdown package and the whole R Markdown ecosystem. The two goals of this workshop are: 1) learn how to fully customize R Markdown output (HTML, LaTeX/PDF, Word, and PowerPoint); and 2) learn more about existing R Markdown extensions in the ecosystem, such as flexdashboard, bookdown, blogdown, pkgdown, xaringan, rticles, and learnr. We will also talk about how to use or develop new language engines (languages that are not R), how to develop HTML widgets, and integrate Shiny with R Markdown.&lt;/p&gt;
+&lt;p&gt;See the workshop website for more, and links to individual slides below.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

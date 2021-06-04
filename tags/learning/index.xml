@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>learning | Nitin Garg</title>
-    <link>https://alison.rbind.io/tags/learning/</link>
-      <atom:link href="https://alison.rbind.io/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nitingarg1000.github.io/tags/learning/</link>
+      <atom:link href="https://nitingarg1000.github.io/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     <description>learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nitin Garg 2021</copyright><lastBuildDate>Wed, 07 Oct 2020 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://alison.rbind.io/img/pom-card.png</url>
+      <url>https://nitingarg1000.github.io/img/pom-card.png</url>
       <title>learning</title>
-      <link>https://alison.rbind.io/tags/learning/</link>
+      <link>https://nitingarg1000.github.io/tags/learning/</link>
     </image>
     
     <item>
       <title>Learning without a net</title>
-      <link>https://alison.rbind.io/talk/2020-latinr-learn/</link>
+      <link>https://nitingarg1000.github.io/talk/2020-latinr-learn/</link>
       <pubDate>Wed, 07 Oct 2020 09:00:00 +0000</pubDate>
-      <guid>https://alison.rbind.io/talk/2020-latinr-learn/</guid>
+      <guid>https://nitingarg1000.github.io/talk/2020-latinr-learn/</guid>
       <description>&lt;p&gt;In this talk, I shared my experiences learning new data science skills on my own, and some broader strategies for learning when you have to do it by yourself.&lt;/p&gt;
 </description>
     </item>
