@@ -5,7 +5,7 @@
     <link>https://nitingarg1000.github.io/tags/ml/</link>
       <atom:link href="https://nitingarg1000.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     <description>ml</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nitin Garg 2021</copyright><lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nitin Garg 2021</copyright><lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nitingarg1000.github.io/img/pom-card.png</url>
       <title>ml</title>
@@ -13,10 +13,19 @@
     </image>
     
     <item>
+      <title>Convex Optimization Techniques</title>
+      <link>https://nitingarg1000.github.io/project/tidyml/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://nitingarg1000.github.io/project/tidyml/</guid>
+      <description>&lt;p&gt;add content&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Language Models</title>
-      <link>https://nitingarg1000.github.io/project/up-running-blogdown/</link>
+      <link>https://nitingarg1000.github.io/project/language-models/</link>
       <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://nitingarg1000.github.io/project/up-running-blogdown/</guid>
+      <guid>https://nitingarg1000.github.io/project/language-models/</guid>
       <description>&lt;p&gt;We will cover:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The &lt;strong&gt;blogdown&lt;/strong&gt; R package&lt;/li&gt;
@@ -51,10 +60,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://nitingarg1000.github.io/project/up-running-blogdown/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://nitingarg1000.github.io/project/language-models/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://nitingarg1000.github.io/project/up-running-blogdown/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2550&#34; height=&#34;3300&#34;&gt;
+  &lt;img data-src=&#34;https://nitingarg1000.github.io/project/language-models/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2550&#34; height=&#34;3300&#34;&gt;
 &lt;/a&gt;
 
 

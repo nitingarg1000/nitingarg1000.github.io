@@ -39,7 +39,7 @@
     <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url><url>
     <loc>https://nitingarg1000.github.io/categories/workshop/</loc>
-    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url><url>
     <loc>https://nitingarg1000.github.io/tags/learning/</loc>
     <lastmod>2020-10-07T09:00:00+00:00</lastmod>
@@ -101,12 +101,6 @@
     <loc>https://nitingarg1000.github.io/talk/2020-rsc-tidyml/</loc>
     <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url><url>
-    <loc>https://nitingarg1000.github.io/project/tidyml/</loc>
-    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nitingarg1000.github.io/tags/workshop/</loc>
-    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nitingarg1000.github.io/categories/r/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -155,19 +149,25 @@
     <loc>https://nitingarg1000.github.io/talk/2019-rmed-rmd4medicine/</loc>
     <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url><url>
+    <loc>https://nitingarg1000.github.io/tags/workshop/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url><url>
     <loc>https://nitingarg1000.github.io/tags/talk/</loc>
     <lastmod>2019-06-18T22:43:01-07:00</lastmod>
   </url><url>
     <loc>https://nitingarg1000.github.io/talk/2019-jsm-talk-ds/</loc>
     <lastmod>2019-06-18T22:43:01-07:00</lastmod>
   </url><url>
-    <loc>https://nitingarg1000.github.io/project/up-running-blogdown/</loc>
-    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+    <loc>https://nitingarg1000.github.io/project/tidyml/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nitingarg1000.github.io/tags/ml/</loc>
-    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nitingarg1000.github.io/categories/ml/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nitingarg1000.github.io/project/language-models/</loc>
     <lastmod>2019-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nitingarg1000.github.io/categories/blogdown/</loc>
