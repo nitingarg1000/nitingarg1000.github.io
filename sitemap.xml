@@ -68,16 +68,10 @@
     <loc>https://nitingarg1000.github.io/tags/blogdown/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nitingarg1000.github.io/tags/bookdown/</loc>
-    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nitingarg1000.github.io/project/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nitingarg1000.github.io/tags/r/</loc>
-    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nitingarg1000.github.io/project/stat545.com/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nitingarg1000.github.io/project/tidymodels.org/</loc>
@@ -167,6 +161,15 @@
     <loc>https://nitingarg1000.github.io/talk/2019-jsm-talk-ds/</loc>
     <lastmod>2019-06-18T22:43:01-07:00</lastmod>
   </url><url>
+    <loc>https://nitingarg1000.github.io/project/up-running-blogdown/</loc>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nitingarg1000.github.io/tags/ml/</loc>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nitingarg1000.github.io/categories/ml/</loc>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nitingarg1000.github.io/categories/blogdown/</loc>
     <lastmod>2019-06-13T09:00:00+00:00</lastmod>
   </url><url>
@@ -210,6 +213,9 @@
     <lastmod>2019-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nitingarg1000.github.io/talk/2019-rsc-blogdown/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url><url>
+    <loc>https://nitingarg1000.github.io/tags/bookdown/</loc>
     <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url><url>
     <loc>https://nitingarg1000.github.io/talk/2019-rsc-bookdown/</loc>
@@ -353,18 +359,6 @@
     <loc>https://nitingarg1000.github.io/tags/science/</loc>
     <lastmod>2017-12-08T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nitingarg1000.github.io/tags/github/</loc>
-    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nitingarg1000.github.io/project/labhub/</loc>
-    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nitingarg1000.github.io/tags/reproducibility/</loc>
-    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nitingarg1000.github.io/project/up-running-blogdown/</loc>
-    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nitingarg1000.github.io/talk/2017-pdxr-blogdown/</loc>
     <lastmod>2017-09-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -389,9 +383,6 @@
     <loc>https://nitingarg1000.github.io/authors/rosemary-ingham/</loc>
     <lastmod>2017-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nitingarg1000.github.io/project/code-your-graph/</loc>
-    <lastmod>2016-06-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nitingarg1000.github.io/talk/2016-ohsu-dataviz/</loc>
     <lastmod>2016-06-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -401,12 +392,6 @@
     <loc>https://nitingarg1000.github.io/authors/julianne-myers/</loc>
     <lastmod>2016-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nitingarg1000.github.io/project/blogdown-book/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nitingarg1000.github.io/tags/book/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nitingarg1000.github.io/tags/course/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -414,9 +399,6 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nitingarg1000.github.io/project/ohsu-biostats/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nitingarg1000.github.io/project/summer-of-blogdown/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nitingarg1000.github.io/tags/tidyverse/</loc>

@@ -13,30 +13,6 @@
     </image>
     
     <item>
-      <title>stat545.com</title>
-      <link>https://nitingarg1000.github.io/project/stat545.com/</link>
-      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://nitingarg1000.github.io/project/stat545.com/</guid>
-      <description>&lt;p&gt;This online book contains a full course where users can learn to:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;explore, groom, visualize, and analyze data,&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;make all of that reproducible, reusable, and shareable,&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;using R.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I led the effort, along with course author 
-&lt;a href=&#34;https://jennybryan.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jenny Bryan&lt;/a&gt; and RStudio intern 
-&lt;a href=&#34;https://grace.rbind.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grace Lawley&lt;/a&gt;, to port a vintage R Markdown website into bookdown. I worked with my former intern, 
-&lt;a href=&#34;https://desiree.rbind.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Desirée De Leon&lt;/a&gt;, to design the style of the bookdown website.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>tidymodels.org</title>
       <link>https://nitingarg1000.github.io/project/tidymodels.org/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
@@ -68,21 +44,9 @@
     </item>
     
     <item>
-      <title>Labhub</title>
-      <link>https://nitingarg1000.github.io/project/labhub/</link>
-      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://nitingarg1000.github.io/project/labhub/</guid>
-      <description>&lt;p&gt;In this workshop, Dr. Alison Hill and Robin Champieux demonstrated tools and methods for building transparency within a lab, and onboarding new graduate students and postdocs. We provided a 
-&lt;a href=&#34;https://github.com/apreshill/labhub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;template GitHub repository&lt;/a&gt; and code of conduct designed to facilitate a healthy and productive learning and research environment. You are encouraged to use these tools to communicate expectations, document protocols, receive feedback, and facilitate the long-term value of students’ and trainees’ contributions.&lt;/p&gt;
-&lt;p&gt;Labhub is a &lt;em&gt;work in progress&lt;/em&gt;. We created 
-&lt;a href=&#34;https://github.com/apreshill/labhub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this repository&lt;/a&gt; as an education and demonstration tool for faculty, postdocs, and students curious about how documentation, open science workflows, and tools like Github can contribute to a healthy and productive research environment. Your ideas and contributions are welcome!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Up &amp; Running with blogdown</title>
+      <title>Language Models</title>
       <link>https://nitingarg1000.github.io/project/up-running-blogdown/</link>
-      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://nitingarg1000.github.io/project/up-running-blogdown/</guid>
       <description>&lt;p&gt;We will cover:&lt;/p&gt;
 &lt;ul&gt;
@@ -132,67 +96,11 @@
     </item>
     
     <item>
-      <title>Code Your Graph Workshop</title>
-      <link>https://nitingarg1000.github.io/project/code-your-graph/</link>
-      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://nitingarg1000.github.io/project/code-your-graph/</guid>
-      <description>
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://nitingarg1000.github.io/project/code-your-graph/code-your-graph_hu9ebcd1d99c0a236c25b6db9f0e87e85d_160690_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
-
-
-  &lt;img data-src=&#34;https://nitingarg1000.github.io/project/code-your-graph/code-your-graph_hu9ebcd1d99c0a236c25b6db9f0e87e85d_160690_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;800&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>blogdown: Creating Websites with R Markdown</title>
-      <link>https://nitingarg1000.github.io/project/blogdown-book/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://nitingarg1000.github.io/project/blogdown-book/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Introduction to Data Wrangling, Analysis, &amp; Communication</title>
       <link>https://nitingarg1000.github.io/project/ohsu-biostats/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://nitingarg1000.github.io/project/ohsu-biostats/</guid>
       <description>&lt;p&gt;Part of a year-long curricula on open science, data, and research practice for incoming graduate students in the biomedical sciences, developed in collaboration with OHSU School of MedicineGraduate Studies. This course was offered at Oregon Health &amp;amp; Science University to graduate students in the biomedical sciences.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Summer of blogdown</title>
-      <link>https://nitingarg1000.github.io/project/summer-of-blogdown/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://nitingarg1000.github.io/project/summer-of-blogdown/</guid>
-      <description>&lt;p&gt;Four daily 1-hour sessions plus 30-60 minutes of homework for 3 nights. See links to each day&amp;rsquo;s materials, including slides and homeworks, below.&lt;/p&gt;
 </description>
     </item>
     
