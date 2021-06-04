@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>misc | Nitin Garg</title>
+    <link>https://nitingarg1000.github.io/tags/misc/</link>
+      <atom:link href="https://nitingarg1000.github.io/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    <description>misc</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nitin Garg 2021</copyright><lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nitingarg1000.github.io/img/pom-card.png</url>
+      <title>misc</title>
+      <link>https://nitingarg1000.github.io/tags/misc/</link>
+    </image>
+    
+    <item>
+      <title>Advanced Algorithms</title>
+      <link>https://nitingarg1000.github.io/project/algorithms/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://nitingarg1000.github.io/project/algorithms/</guid>
+      <description>&lt;p&gt;Algorithms are important in every area. I started with some basic algorithms like Sorting, Binary Search, Dynamic Programming, Disjoint Set Union, Hashing, String Prefix Structure, etc. I also got familiar with several other algorithms like DFS, BFS, Sieve of Eratosthenes, STL, Meet in the Middle Technique, etc. Further, I explored various Graph Algorithms like Dijkstra, Topological Sort, Floyd Warshall, Bellman Ford, Kruskal, Prim algorithm, etc. Apart from learning, I also implemented all of these in C++ to get a better understanding.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breaking Cryptosystems</title>
+      <link>https://nitingarg1000.github.io/project/crypto/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://nitingarg1000.github.io/project/crypto/</guid>
+      <description>&lt;p&gt;This project was a part of a course (CS641: Modern Cryptology) taught by 
+&lt;a href=&#34;https://www.cse.iitk.ac.in/users/manindra/publications.html/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Manindra Agrawal&lt;/a&gt;. We performed Cyptanalysis of Substitution cipher, Block substitution cipher, Substitution-Permutation cipher. We also analyzed special cases of cryptanalysis of DES (Differential cryptanalysis), AES (SASAS attack), RSA with low exponent (Coppersmith attack). Towards the end, we learnt and worked through different attacks on weaker version on KECCAK hashing. We used python for implementing these cryptographic attacks and were able to break each of the above mentioned algorithms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Haskell Scrabble Solver</title>
+      <link>https://nitingarg1000.github.io/project/haskell/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://nitingarg1000.github.io/project/haskell/</guid>
+      <description>&lt;p&gt;I took this up as a self project to learnt the concepts of functional programming through Haskell, one of the most widely used functional programming languages. I then deep dived into the concepts of Type theory, Currying, Recursion, Immutability, File Systems, Pattern Matching and Laziness of Haskell. Using these concepts, I made a Scrabble Solver in Haskell (A Two Player version and a Play with Computer version) which used Lexicographical Search, Regex-type functions (written from scratch) and Quick Sort as the major algorithms.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

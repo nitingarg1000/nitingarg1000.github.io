@@ -5,7 +5,7 @@
     <link>https://nitingarg1000.github.io/tags/ml/</link>
       <atom:link href="https://nitingarg1000.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     <description>ml</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nitin Garg 2021</copyright><lastBuildDate>Wed, 27 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nitin Garg 2021</copyright><lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nitingarg1000.github.io/img/pom-card.png</url>
       <title>ml</title>
@@ -13,29 +13,19 @@
     </image>
     
     <item>
-      <title>Advanced Algorithms</title>
-      <link>https://nitingarg1000.github.io/project/algorithms/</link>
-      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://nitingarg1000.github.io/project/algorithms/</guid>
-      <description>&lt;p&gt;add content&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Breaking Cryptosystems</title>
-      <link>https://nitingarg1000.github.io/project/crypto/</link>
-      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://nitingarg1000.github.io/project/crypto/</guid>
-      <description>&lt;p&gt;add content&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Haskell Scrabble Solver</title>
-      <link>https://nitingarg1000.github.io/project/haskell/</link>
-      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://nitingarg1000.github.io/project/haskell/</guid>
-      <description>&lt;p&gt;add content&lt;/p&gt;
+      <title>Conversational Agent for Mental Health</title>
+      <link>https://nitingarg1000.github.io/project/mental-health/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nitingarg1000.github.io/project/mental-health/</guid>
+      <description>&lt;p&gt;This project was mentored was 
+&lt;a href=&#34;https://ashutosh-modi.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ashutosh Modi&lt;/a&gt; where we attempted to improve a chat-bot which is in development by IIT Kanpur. We did the following -&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Created a semi-automated self-help conversational agent that serves as a cost-effective mental health regulator.&lt;/li&gt;
+&lt;li&gt;Designed a retrieval based system where the input is compared to existing conversations in the database using deep learning.&lt;/li&gt;
+&lt;li&gt;Used neural network based architectures to find out the similarity between two pieces of texts to generate a response.&lt;/li&gt;
+&lt;li&gt;Explored Natural Language Generation (NLG) techniques based on RNN and transformer based architectures.&lt;/li&gt;
+&lt;li&gt;Pre-processed to convert the textual data into word embeddings to facilitate comparison among different texts.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -44,7 +34,7 @@
       <link>https://nitingarg1000.github.io/project/convex/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://nitingarg1000.github.io/project/convex/</guid>
-      <description>&lt;p&gt;add content&lt;/p&gt;
+      <description>&lt;p&gt;Convex optimization is a subfield of mathematical optimization that studies the problem of minimizing convex functions over convex sets. We started by studying the three parameter Weibull distribution and wrote a python script to maximize its likelihood function. We then got familiar with Batch Gradient Descent, Stochastic Gradient Descent and Mini-Batch Gradient Descent. We also explored several Matrix Factorization methods such as LU and PLU Factorization for basis B, Cholesky Factorization LLT and LDLT for Symmetric, Positive Definite Matrices B, etc. Further, we explored optimization techniques such as Adagrad, RMSProp, AdaMax, Adam, etc. We also implemented each of these techniques in python to visualize the differences.&lt;/p&gt;
 </description>
     </item>
     
@@ -53,50 +43,13 @@
       <link>https://nitingarg1000.github.io/project/language-models/</link>
       <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://nitingarg1000.github.io/project/language-models/</guid>
-      <description>&lt;p&gt;We will cover:&lt;/p&gt;
+      <description>&lt;p&gt;I took up this project under 
+&lt;a href=&#34;https://pclub.in&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Programming Club&lt;/a&gt;, IIT Kanpur. This was my first introduction to language models and the summary is as follows -&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;The &lt;strong&gt;blogdown&lt;/strong&gt; R package&lt;/li&gt;
-&lt;li&gt;Hugo themes&lt;/li&gt;
-&lt;li&gt;Adding content to personalize your site&lt;/li&gt;
-&lt;li&gt;Posting&lt;/li&gt;
-&lt;li&gt;Don&amp;rsquo;t want to blog? / just want to knit?&lt;/li&gt;
-&lt;li&gt;Customizing themes&lt;/li&gt;
-&lt;li&gt;Troubleshooting common problems&lt;/li&gt;
-&lt;li&gt;Deployment options and recommendations&lt;/li&gt;
-&lt;li&gt;Domain options available through RStudio/rbind&lt;/li&gt;
+&lt;li&gt;Got me familiarized with Deep Neural Networks by implementing the basic types of neural networks&lt;/li&gt;
+&lt;li&gt;Learnt about the basics of Natural Language Processing and some common applications of sequence models with focus on word embeddings such as GloVe, Word2Vec, BERT, etc.&lt;/li&gt;
+&lt;li&gt;Implemented a SOTA paper on ELMo’s (Embeddings for Language Models) in Python using Pytorch that achieved 83% efficiency which is close to 85.8% SOTA values&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;If you are planning on attending this workshop, please click on the HTML link above for how to prepare before the workshop.&lt;/p&gt;
-
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://nitingarg1000.github.io/project/language-models/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
-
-
-  &lt;img data-src=&#34;https://nitingarg1000.github.io/project/language-models/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2550&#34; height=&#34;3300&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
 </description>
     </item>
     

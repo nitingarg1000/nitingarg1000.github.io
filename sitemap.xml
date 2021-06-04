@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nitingarg1000.github.io/tags/blogdown/</loc>
-    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nitingarg1000.github.io/categories/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nitingarg1000.github.io/project/mental-health/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nitingarg1000.github.io/tags/machine-learning/</loc>
+    <loc>https://nitingarg1000.github.io/tags/ml/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nitingarg1000.github.io/categories/ml/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nitingarg1000.github.io/</loc>
@@ -20,20 +20,23 @@
     <loc>https://nitingarg1000.github.io/project/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nitingarg1000.github.io/tags/r/</loc>
-    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nitingarg1000.github.io/tags/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nitingarg1000.github.io/tags/tidymodels/</loc>
-    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <loc>https://nitingarg1000.github.io/project/algorithms/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nitingarg1000.github.io/tags/website/</loc>
-    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <loc>https://nitingarg1000.github.io/tags/misc/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nitingarg1000.github.io/categories/website/</loc>
-    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <loc>https://nitingarg1000.github.io/categories/misc/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nitingarg1000.github.io/project/crypto/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nitingarg1000.github.io/tags/r/</loc>
+    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nitingarg1000.github.io/categories/r/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
@@ -47,22 +50,19 @@
     <loc>https://nitingarg1000.github.io/project/variational-inference-vs-mcmc/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nitingarg1000.github.io/project/algorithms/</loc>
-    <lastmod>2019-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nitingarg1000.github.io/project/crypto/</loc>
-    <lastmod>2019-11-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nitingarg1000.github.io/project/haskell/</loc>
     <lastmod>2019-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nitingarg1000.github.io/tags/ml/</loc>
-    <lastmod>2019-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nitingarg1000.github.io/categories/ml/</loc>
-    <lastmod>2019-11-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nitingarg1000.github.io/project/convex/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nitingarg1000.github.io/project/health-buddy/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nitingarg1000.github.io/tags/web/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nitingarg1000.github.io/categories/web/</loc>
     <lastmod>2019-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nitingarg1000.github.io/authors/alison/</loc>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web | Nitin Garg</title>
+    <link>https://nitingarg1000.github.io/tags/web/</link>
+      <atom:link href="https://nitingarg1000.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <description>web</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nitin Garg 2021</copyright><lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nitingarg1000.github.io/img/pom-card.png</url>
+      <title>web</title>
+      <link>https://nitingarg1000.github.io/tags/web/</link>
+    </image>
+    
+    <item>
+      <title>Health Buddy (Web application)</title>
+      <link>https://nitingarg1000.github.io/project/health-buddy/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://nitingarg1000.github.io/project/health-buddy/</guid>
+      <description>&lt;p&gt;This project was part of my internship at IITK Summer of Code organised by the 
+&lt;a href=&#34;https://www.cse.iitk.ac.in&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dept. of Computer Science and Engineering&lt;/a&gt;. The technical details are as follows -&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Received intensive training in technologies involved in Full-Stack Development.&lt;/li&gt;
+&lt;li&gt;Developed a web based platform which would make the entire process of the local health centre paper-free and improve the overall experience of a visit.&lt;/li&gt;
+&lt;li&gt;Created separate end-points for various departments like reception, doctor, patient, pharmacy, etc.&lt;/li&gt;
+&lt;li&gt;Efficient database handling for pharmacy to log in the inventory.&lt;/li&gt;
+&lt;li&gt;Used Django framework in python as the backend framework and HTML, CSS, JS and Bootstrap for frontend development.&lt;/li&gt;
+&lt;li&gt;PostgreSQL was used as the database manager.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

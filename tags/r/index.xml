@@ -5,7 +5,7 @@
     <link>https://nitingarg1000.github.io/tags/r/</link>
       <atom:link href="https://nitingarg1000.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nitin Garg 2021</copyright><lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nitin Garg 2021</copyright><lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nitingarg1000.github.io/img/pom-card.png</url>
       <title>R</title>
@@ -13,22 +13,18 @@
     </image>
     
     <item>
-      <title>Conversational Agent for Mental Health</title>
-      <link>https://nitingarg1000.github.io/project/mental-health/</link>
-      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://nitingarg1000.github.io/project/mental-health/</guid>
-      <description>&lt;p&gt;The tidymodels framework is a collection of R packages for modeling and machine learning using tidyverse principles. This website was built with Hugo, using a theme I developed and maintain. I worked with my former intern, 
-&lt;a href=&#34;https://desiree.rbind.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Desirée De Leon&lt;/a&gt;, to design the style of the website.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Variational Inference vs MCMC</title>
       <link>https://nitingarg1000.github.io/project/variational-inference-vs-mcmc/</link>
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://nitingarg1000.github.io/project/variational-inference-vs-mcmc/</guid>
-      <description>&lt;p&gt;This two-day workshop is designed for those who want to take their R Markdown skills to the next level. We’ll talk about many low-level details in the rmarkdown package and the whole R Markdown ecosystem. The two goals of this workshop are: 1) learn how to fully customize R Markdown output (HTML, LaTeX/PDF, Word, and PowerPoint); and 2) learn more about existing R Markdown extensions in the ecosystem, such as flexdashboard, bookdown, blogdown, pkgdown, xaringan, rticles, and learnr. We will also talk about how to use or develop new language engines (languages that are not R), how to develop HTML widgets, and integrate Shiny with R Markdown.&lt;/p&gt;
-&lt;p&gt;See the workshop website for more, and links to individual slides below.&lt;/p&gt;
+      <description>&lt;p&gt;This project was my first introduction to statistics and was mentored by 
+&lt;a href=&#34;https://dvats.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Dootika Vats&lt;/a&gt; where we covered the following milestones -&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Got familiarised with Variational Inference &amp;amp; MCMC.&lt;/li&gt;
+&lt;li&gt;Implemented an R program to obtain the posterior distribution for a dataset using both Variational Inference and MCMC.&lt;/li&gt;
+&lt;li&gt;Obtained a contrast among posteriors obtained using both the techniques.&lt;/li&gt;
+&lt;li&gt;Concluded that MCMC is asymptotically exact while VI is not but also computationally expensive.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
