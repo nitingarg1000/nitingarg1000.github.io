@@ -17,8 +17,8 @@
       <link>https://nitingarg1000.github.io/project/mental-health/</link>
       <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://nitingarg1000.github.io/project/mental-health/</guid>
-      <description>&lt;p&gt;This project was mentored was 
-&lt;a href=&#34;https://ashutosh-modi.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ashutosh Modi&lt;/a&gt; where we attempted to improve a chat-bot which is in development by IIT Kanpur. We did the following -&lt;/p&gt;
+      <description>&lt;p&gt;This project was mentored by 
+&lt;a href=&#34;https://ashutosh-modi.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ashutosh Modi&lt;/a&gt; where we attempted to improve a chat-bot that is in development by IIT Kanpur. We did the following -&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Created a semi-automated self-help conversational agent that serves as a cost-effective mental health regulator.&lt;/li&gt;
 &lt;li&gt;Designed a retrieval based system where the input is compared to existing conversations in the database using deep learning.&lt;/li&gt;
